@@ -12,7 +12,7 @@ This dashboard was designed to give a comprehensive view of sales performance ac
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](Sales_Dashboard_-_Excel.png)
+
 
 ---
 
