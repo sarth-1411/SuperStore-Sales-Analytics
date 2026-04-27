@@ -12,9 +12,9 @@ This dashboard was designed to give a comprehensive view of sales performance ac
 
 ## 🖼️ Dashboard Preview
 
-https://github.com/sarth-1411/SuperStore-Sales-Analytics/blob/main/Sales%20Dashboard.png
-[!(https://github.com/sarth-1411/SuperStore-Sales-Analytics/blob/main/Sales%20Dashboard.png)](https://github.com/sarth-1411/SuperStore-Sales-Analytics/blob/main/Sales%20Dashboard.png) 
+![Sales Dashboard](https://raw.githubusercontent.com/sarth-1411/SuperStore-Sales-Analytics/main/Sales%20Dashboard.png)
 
+---
 
 ## 📂 Dataset
 
@@ -123,4 +123,3 @@ As part of this project, the source CSV was cross-validated against the Excel da
 3. Use the **Year** slicer to filter by 2014, 2015, 2016, or 2017
 4. Use the **Category** slicer to filter by Furniture, Office Supplies, or Technology
 5. All charts update dynamically based on slicer selections
-
