@@ -12,7 +12,7 @@ This dashboard was designed to give a comprehensive view of sales performance ac
 
 ## 🖼️ Dashboard Preview
 
-
+https://github.com/sarth-1411/SuperStore-Sales-Analytics/blob/main/Sales%20Dashboard.png
 
 ---
 
